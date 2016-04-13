@@ -1,5 +1,5 @@
 import logging
-from twodig import numToMatrix
+from twoDigit.twoDigit import numToMatrix
 from sense_hat import SenseHat
 from datetime import datetime
 from time import sleep
